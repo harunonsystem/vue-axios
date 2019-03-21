@@ -27,3 +27,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+###memo
+ほぼコピペでAPIからデータ云々してみたかっただけ。
+`v-for="currency in info"`のエラーが出現したので`v-bind:key="..."`ではっ倒す。
