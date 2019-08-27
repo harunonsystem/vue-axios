@@ -8,7 +8,9 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "@vue/cli": "^3.11.0",
+    "@vue/cli-upgrade": "^3.11.0",
+    "axios": "^0.18.1",
     "semantic-ui-vue": "^0.8.1",
     "vue": "^2.6.6"
   },
