@@ -11,6 +11,9 @@
     "@vue/cli": "^3.11.0",
     "@vue/cli-upgrade": "^3.11.0",
     "axios": "^0.18.1",
+    "eslint-utils": "^1.4.2",
+    "lodash": "^4.17.15",
+    "lodash.defaultsdeep": "^4.6.1",
     "semantic-ui-vue": "^0.8.1",
     "vue": "^2.6.6"
   },
