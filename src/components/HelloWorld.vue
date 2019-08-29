@@ -21,7 +21,6 @@
           </sui-card-header>
       </sui-card-content>
   </sui-card>
-
 </div>
 </template>
 

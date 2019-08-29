@@ -14,16 +14,18 @@
     "eslint-utils": "^1.4.2",
     "lodash": "^4.17.15",
     "lodash.defaultsdeep": "^4.6.1",
+    "mixin-deep": "^2.0.1",
     "semantic-ui-vue": "^0.8.1",
+    "set-value": "^3.0.1",
     "vue": "^2.6.6"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.5.0",
-    "@vue/cli-plugin-eslint": "^3.5.0",
-    "@vue/cli-service": "^3.5.0",
-    "babel-eslint": "^10.0.1",
-    "eslint": "^5.8.0",
-    "eslint-plugin-vue": "^5.0.0",
+    "@vue/cli-plugin-babel": "^3.11.0",
+    "@vue/cli-plugin-eslint": "^3.11.0",
+    "@vue/cli-service": "^3.11.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.2.3",
     "vue-template-compiler": "^2.5.21"
   },
   "eslintConfig": {
