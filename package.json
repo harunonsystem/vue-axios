@@ -10,7 +10,7 @@
   "dependencies": {
     "@vue/cli": "^3.11.0",
     "@vue/cli-upgrade": "^3.11.0",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "eslint-utils": "^1.4.2",
     "lodash": "^4.17.19",
     "lodash.defaultsdeep": "^4.6.1",
